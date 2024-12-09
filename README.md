@@ -3,6 +3,8 @@
 **Projeto Frontend** de um chatbot consumindo a API do Gemini por meio do projeto [chatbot-gemini-backend](https://github.com/EmanuelBitenc/chatbot-gemini-backend).
 
 Este projeto permite a interação com um chatbot que utiliza o modelo Gemini, proporcionando uma interface de chat simples e eficiente.
+![image](https://github.com/user-attachments/assets/db835b4d-2ea2-4769-a0b0-12700d91ce8e)
+
 
 ## Tecnologias Utilizadas
 
@@ -47,3 +49,5 @@ npm run dev
 ```
 
 O projeto será iniciado e estará disponível em http://localhost:5173.
+
+- Caso queira limpar o historico da conversar, basta enviar "clear" no prompt
